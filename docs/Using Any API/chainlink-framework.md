@@ -2,7 +2,7 @@
 layout: nodes.liquid
 section: smartContract
 date: Last Modified
-title: "API Reference"
+title: "ChainlinkClient API Reference"
 permalink: "docs/chainlink-framework/"
 hidden: false
 ---

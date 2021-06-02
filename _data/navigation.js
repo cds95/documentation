@@ -132,12 +132,12 @@ module.exports = {
           { title: 'Get the Latest Price', url: 'get-the-latest-price' },
           { title: 'Historical Price Data', url: 'historical-price-data' },
           {
-            title: 'API Reference',
+            title: 'Price Feeds API Reference',
             url: 'price-feeds-api-reference',
             children: [],
           },
           {
-            title: 'Contract Addresses',
+            title: 'Price Feeds Contract Addresses',
             url: 'reference-contracts',
             children: [
               { title: 'ENS', url: 'ens' },
@@ -171,8 +171,8 @@ module.exports = {
         contents: [
           { title: 'Introduction to Chainlink VRF', url: 'chainlink-vrf' },
           { title: 'Get a Random Number', url: 'get-a-random-number' },
-          { title: 'API Reference', url: 'chainlink-vrf-api-reference' },
-          { title: 'Contract Addresses', url: 'vrf-contracts' },
+          { title: 'Chainlink VRF API Reference', url: 'chainlink-vrf-api-reference' },
+          { title: 'Chainlink VRF Contract Addresses', url: 'vrf-contracts' },
         ],
       },
       {
@@ -188,9 +188,9 @@ module.exports = {
             url: 'existing-job-request',
           },
           { title: 'Find Existing Jobs', url: 'listing-services' },
-          { title: 'API Reference', url: 'chainlink-framework' },
+          { title: 'ChainlinkClient API Reference', url: 'chainlink-framework' },
           {
-            title: 'Contract Addresses',
+            title: 'ChainlinkClient Contract Addresses',
             url: 'decentralized-oracles-ethereum-mainnet',
           },
         ],

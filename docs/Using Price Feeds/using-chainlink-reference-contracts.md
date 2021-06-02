@@ -4,7 +4,7 @@ section: smartContract
 date: Last Modified
 title: "Introduction to Price Feeds"
 permalink: "docs/using-chainlink-reference-contracts/"
-whatsnext: {"Get the Latest Price":"/docs/get-the-latest-price/", "API Reference":"/docs/price-feeds-api-reference/", "Contract Addresses":"/docs/reference-contracts/"}
+whatsnext: {"Get the Latest Price":"/docs/get-the-latest-price/", "Price Feeds API Reference":"/docs/price-feeds-api-reference/", "Price Feeds Contract Addresses":"/docs/reference-contracts/"}
 hidden: false
 metadata: 
   title: "How to Use Chainlink Decentralized Price Feeds in Smart Contracts"

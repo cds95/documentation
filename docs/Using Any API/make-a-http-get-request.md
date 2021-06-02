@@ -4,7 +4,7 @@ section: smartContract
 date: Last Modified
 title: "Make a GET Request"
 permalink: "docs/make-a-http-get-request/"
-whatsnext: {"Make an Existing Job Request":"/docs/existing-job-request/", "API Reference":"/docs/chainlink-framework/", "Contract Addresses":"/docs/decentralized-oracles-ethereum-mainnet/"}
+whatsnext: {"Make an Existing Job Request":"/docs/existing-job-request/", "ChainlinkClient API Reference":"/docs/chainlink-framework/", "ChainlinkClient Contract Addresses":"/docs/decentralized-oracles-ethereum-mainnet/"}
 hidden: false
 metadata: 
   title: "Make a GET Request"
